@@ -6,7 +6,7 @@ package com.company;
 public final class RtriangleProvider {
 
     public static Rtriangle getRtriangle() {
-    }
 
+    }
 }
 
